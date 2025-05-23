@@ -4,6 +4,9 @@
   .visivel{
     display:inline;
   }
+  jumbotrom#jumbotrom{
+    background-color: black;
+  }
   .inicial {
     text-align: center;
     font-size: 50px;
